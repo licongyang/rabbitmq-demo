@@ -1,0 +1,8 @@
+#spring:
+#rabbitmq配置参数
+#  rabbitmq:
+#    host:
+#    port:
+#    username:
+#    password:
+#    virtual-host:
